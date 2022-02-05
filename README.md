@@ -1,9 +1,8 @@
-# CodePath-Prework
-Tip Calculator
 
-# Pre-work - *Tip Calculator*
 
-** Tip ** is a tip calculator application for iOS.
+# Pre-work - *Name of App Here*
+
+**Name of your app** is a tip calculator application for iOS.
 
 Submitted by: **Your Name Here**
 
@@ -30,6 +29,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![](https://i.imgur.com/w4zvSem.gif)
+
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
